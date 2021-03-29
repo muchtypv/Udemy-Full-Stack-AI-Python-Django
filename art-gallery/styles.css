@@ -1,0 +1,50 @@
+body {
+    font-family: Helvetica, arial, sans-serif;
+    background-color: indigo;
+}
+h1 {
+    background-color: mediumslateblue;
+    text-align: center;
+    border: midnightblue solid 7px;
+    border-radius: 7px;
+}
+#welcome {
+    height: 100px;
+    position: relative;
+    padding-left: 200px;
+    padding-top: 20px;
+    background-color: mediumslateblue;
+    font-size: xx-large;
+}
+#pics {
+    border: midnightblue 5px solid;
+}
+img {
+    height: 220px;
+    margin: 6px 3px;
+}
+#shop {
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+    background-color: mediumslateblue;
+    padding: 5px 10px;
+    color: navajowhite;
+}
+#disclaimer {
+    position: relative;
+    left: 20px;
+    top: 30px;
+    background-color: mediumslateblue;
+    padding: 5px 10px;
+    width: fit-content;
+}
+#copyright {
+    position: relative;
+    left: 20px;
+    top: 50px;
+    background-color: mediumslateblue;
+    padding: 5px 10px;
+    width: fit-content;
+    font-size: small;
+}
