@@ -1,0 +1,20 @@
+div {
+    background-color: #2a2e2e;
+    position: relative;
+    overflow: hidden;
+    padding-left: 30px;
+}
+ul {
+    list-style-type: none;
+    margin-top: 0px;
+}
+a {
+    float:left;
+    color: gainsboro;
+    font-size: x-large;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+a:hover {
+    background-color: gray;
+}
