@@ -22,6 +22,18 @@ h1 {
 img {
     height: 220px;
     margin: 6px 3px;
+    filter: grayscale(66%);
+}
+img:hover {
+    filter: unset;
+}
+#descriptions th {
+    padding-left: 50px;
+    padding-right: 160px;
+    display: none;
+}
+#pics:hover #descriptions th {
+    display: inline-block;
 }
 #shop {
     position: fixed;
