@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image: url("../images/jumbopic.jpg");
+    background-size: cover;
+    height: 500px;
+    color: #fad26d;
+    text-shadow: 2px 2px black;
+  }
+  #jumbotext {
+      background-color: #3d3c3c;
+      opacity: 0.8;
+      width: fit-content;
+      padding: 10px 10px;
+  }
+  .display-4 {
+      opacity: 100%;
+  }
+  #animalpics img {
+      border: 0px 10px 10px;
+  }
