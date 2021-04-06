@@ -1,0 +1,14 @@
+.blue {
+    height: 200px;
+    width: 400px;
+    position: relative;
+    float: left;
+    background-color: lightskyblue;
+}
+.red {
+    height: 200px;
+    width: 400px;
+    position: relative;
+    float: right;
+    background-color: tomato;
+}

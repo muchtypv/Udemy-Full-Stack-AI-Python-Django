@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainbox {
+    background-color: rgba(255, 255, 255, 0.925);
+    display: block;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    padding: 0px 15px 30px;
+    border-radius: 15px;
+}
+
+h3 {
+    color: rgba(255, 255, 255, 0.925);
+    background-color: black;
+    text-align: center;
+    margin: 0px -15px;
+    padding: 5px;
+}
+#button {
+    color: white;
+    background-color: rgb(207, 48, 48);
+    display: block;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px 20px;
+}
+
+#output {
+    font-weight: bold;
+    text-align: center;
+}
